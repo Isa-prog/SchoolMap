@@ -1,4 +1,5 @@
 # SchoolMap
+http://isakasymbekuulu-001-site3.ktempurl.com/
 
 ## Описание проекта
 
